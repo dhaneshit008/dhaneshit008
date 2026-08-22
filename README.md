@@ -25,7 +25,7 @@ html
 
 </div>
 
-```bash
+bash
 $ whoami
 
 Dhanesh
